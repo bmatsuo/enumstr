@@ -1,40 +1,14 @@
-[install go]: http://golang.org/install.html "Install Go"
-[gopkgdoc]: http://go.pkgdoc.org/github.com/bmatsuo/enumstr/ "GoPkgDoc"
+Enumerations with serialization.
 
-About
-=============
+##Documentation
 
-<no value>
+On [godoc.org](http://godoc.org/github.com/bmatsuo/enumstr)
 
-Documentation
-=============
+#Author
 
-Prerequisites
--------------
+Bryan Matsuo
 
-[Install Go][].
-
-Installation
--------------
-
-    go get github.com/bmatsuo/enumstr
-
-General Documentation
----------------------
-
-Use `go doc` to vew the documentation for enumstr
-
-    go doc github.com/bmatsuo/enumstr
-
-Or alternatively, check out [GoPkgDoc][]
-
-Author
-======
-
-Bryan Matsuo &lt;bryan dot matsuo at gmail dot com&gt;
-
-Copyright & License
-===================
+#Copyright & License
 
 Copyright (c) 2013, Bryan Matsuo.
 All rights reserved.
