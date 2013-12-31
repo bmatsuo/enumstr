@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/bmatsuo/enumstr.png?branch=master)](https://travis-ci.org/bmatsuo/enumstr)
+
 Enumerations with serialization. Creates enumerations from uints or arbitrary
 values (interface{}).
 
