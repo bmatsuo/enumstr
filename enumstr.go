@@ -103,7 +103,7 @@ type EnumDefault interface {
 	Parse(string) interface{}
 }
 
-func String(enum Enum, val interface{}, err error, invalid string) string {
+func String(enum Enum, val interface{}, invalid string) string {
 	str, err := enum.Format(val)
 	if err != nil {
 		return invalid

@@ -111,7 +111,7 @@ func ParseFruit(str string) (Fruit, error) {
 }
 
 func (f Fruit) String() string {
-	return String(fruitEnum, uint(f), nil, "wut?")
+	return String(fruitEnum, uint(f), "wut?")
 }
 
 func (f Fruit) MarshalJSON() ([]byte, error) {

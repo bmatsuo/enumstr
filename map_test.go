@@ -89,7 +89,7 @@ func ParseREST(str string) (REST, error) {
 }
 
 func (f REST) String() string {
-	return String(puppyOpEnum, f, nil, "REST(???)")
+	return String(puppyOpEnum, f, "REST(???)")
 }
 
 func (f REST) MarshalJSON() ([]byte, error) {
