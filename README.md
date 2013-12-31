@@ -1,4 +1,5 @@
-Enumerations with serialization.
+Enumerations with serialization. Creates enumerations from uints or arbitrary
+values (interface{}).
 
 ##Documentation
 
