@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/bmatsuo/enumstr.png?branch=master)](https://travis-ci.org/bmatsuo/enumstr)
 
+**enumstr is an experimental package and should not be used in production**
+
 Enumerations with serialization. Creates enumerations from uints or arbitrary
 values (interface{}).
 
